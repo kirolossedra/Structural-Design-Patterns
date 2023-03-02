@@ -1,0 +1,6 @@
+BridgePattern\Radio.class
+BridgePattern\BridgePattern.class
+BridgePattern\AdvancedRemoteControl.class
+BridgePattern\Device.class
+BridgePattern\RemoteControl.class
+BridgePattern\Tv.class
