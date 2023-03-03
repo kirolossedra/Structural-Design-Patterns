@@ -1,0 +1,6 @@
+facadepattern\Shape.class
+facadepattern\FacadePattern.class
+facadepattern\ShapeMaker.class
+facadepattern\Circle.class
+facadepattern\Square.class
+facadepattern\Rectangle.class
